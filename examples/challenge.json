@@ -1,0 +1,20 @@
+{
+  "@context": "https://rawgithub.com/enspiral-dev-academy/contexts/master/challenge.jsonld",
+  "@id": "https://rawgithub.com/enspiral-dev-academy/angular-todo-challenge/master/challenge.jsonld",
+  "@type": "Resource",
+  "name": "angular-todo-challenge",
+  "description": "A challenge for learning Angular",
+  "version": "1.0.0",
+  "url": "https://github.com/enspiral-dev-academy/angular-todo-challenge",
+  "prequisites:": [{
+    "@id": "https://rawgithub.com/enspiral-dev-academy/achievements/master/basic-javascript.jsonld",
+    "@type": "Achievement",
+    "name": "Basic Javascript",
+    "summary": "Basic knowledge of javascript",
+  },{
+    "@id": "https://rawgithub.com/enspiral-dev-academy/angular-workshop/master/resource.jsonld",
+    "@type": "Resource",
+    "name": "Angular Workshop",
+    "summary": "An introduction workshop to Angular",
+  }]
+}
