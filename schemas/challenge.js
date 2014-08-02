@@ -49,11 +49,10 @@ module.exports = {
     },
     prerequisites: {
       context: "TODO",
-      description: "Pre-requisite competencies",
+      description: "Prerequisites for the challenge",
       type: "array",
       items: {
-        reverse: "resources",
-        $ref: "Competency",
+        $ref: "Prerequisite",
       },
     },
   },
