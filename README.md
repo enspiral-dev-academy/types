@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/enspiral-dev-academy/types.png?label=ready&title=Ready)](https://waffle.io/enspiral-dev-academy/types)
 [<img src='http://devacademy.co.nz/media/logoEnspiralDevAcademySmallest.png' align='right'/>](http://www.devacademy.co.nz)
 ###EDA Data Types
 
