@@ -24,6 +24,7 @@ fs.readdir(schemaDir, function (err, files) {
       path.basename(file, fileExt) +
       '.' + contextExt;
 
+    console.log(contextFileName);
     fs.writeFile(
       contextDir+'/'+contextFileName,
       JSON.stringify(context, null, 2),
