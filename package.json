@@ -1,7 +1,7 @@
 {
   "name": "learning-types",
   "version": "0.0.0",
-  "description": "learning vocabulary",
+  "description": "Enspiral Dev Academy learning vocabulary",
   "main": "index.js",
   "directories": {
     "example": "examples"
