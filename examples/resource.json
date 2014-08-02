@@ -1,5 +1,5 @@
 {
-  "@context": "https://rawgithub.com/enspiral-dev-academy/contexts/master/Resource.jsonld",
+  "@context": "https://rawgithub.com/enspiral-dev-academy/contexts/master/resource.jsonld",
   "@id": "https://rawgithub.com/enspiral-dev-academy/angular-todo-challenge/master/resource.jsonld",
   "@type": "Resource",
   "name": "angular-todo-challenge",

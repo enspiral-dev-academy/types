@@ -17,6 +17,11 @@ module.exports = {
       description: "A short description of the learning resource.",
       type: "string",
     },
+    url: {
+      context: "url",
+      description: "Url of the learning resource",
+      type: "string",
+    },
     version: {
       context: "TODO",
       description: "The semantic version of the learning resource.",
@@ -31,11 +36,6 @@ module.exports = {
         reverse: "resources",
         $ref: "Concept",
       },
-    },
-    length: {
-      context: "TODO",
-      description: "Estimated time in seconds to complete resource.",
-      type: "number",
     },
   },
 };
