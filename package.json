@@ -1,7 +1,7 @@
 {
-  "name": "learning-types",
+  "name": "eda-types",
   "version": "0.0.0",
-  "description": "learning vocabulary",
+  "description": "Enspiral Dev Academy learning vocabulary",
   "main": "index.js",
   "directories": {
     "example": "examples"
@@ -11,19 +11,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ahdinosaur/learning-types.git"
+    "url": "https://github.com/enspiral-dev-academy/types.git"
   },
   "keywords": [
     "learning",
     "vocabulary",
     "type"
   ],
-  "author": "",
+  "author": "enspiral-dev-academy",
   "license": "CC0 1.0 Universal",
   "bugs": {
-    "url": "https://github.com/ahdinosaur/learning-types/issues"
+    "url": "https://github.com/enspiral-dev-academy/types/issues"
   },
-  "homepage": "https://github.com/ahdinosaur/learning-types",
+  "homepage": "https://github.com/enspiral-dev-academy/types",
   "dependencies": {
     "async-each": "^0.1.4",
     "jjv": "^1.0.0",
