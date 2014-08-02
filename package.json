@@ -28,5 +28,8 @@
     "async-each": "^0.1.4",
     "jjv": "^1.0.0",
     "oa-type": "git://github.com/open-app/type"
+  },
+  "devDependencies": {
+    "coffee-script": "^1.7.1"
   }
 }
