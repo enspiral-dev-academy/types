@@ -1,0 +1,32 @@
+{
+  "name": "learning-types",
+  "version": "0.0.0",
+  "description": "learning vocabulary",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ahdinosaur/learning-types.git"
+  },
+  "keywords": [
+    "learning",
+    "vocabulary",
+    "type"
+  ],
+  "author": "",
+  "license": "AGPLv3",
+  "bugs": {
+    "url": "https://github.com/ahdinosaur/learning-types/issues"
+  },
+  "homepage": "https://github.com/ahdinosaur/learning-types",
+  "dependencies": {
+    "async-each": "^0.1.4",
+    "jjv": "^1.0.0",
+    "oa-type": "git://github.com/open-app/type"
+  }
+}
