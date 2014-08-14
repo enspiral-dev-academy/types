@@ -25,9 +25,12 @@
   },
   "homepage": "https://github.com/enspiral-dev-academy/types",
   "dependencies": {
+    "async": "^0.9.0",
     "async-each": "^0.1.4",
     "jjv": "^1.0.0",
-    "oa-type": "git://github.com/open-app/type"
+    "schema-deref": "^2.1.0",
+    "schema-jsonld-context": "^2.0.0",
+    "schema-prefix-uri": "^1.0.0"
   },
   "devDependencies": {
     "coffee-script": "^1.7.1"
