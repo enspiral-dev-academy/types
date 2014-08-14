@@ -22,7 +22,7 @@ module.exports =
       context: "TODO"
       description: "The semantic version of the learning resource."
       type: "string"
-      pattern: /TODO/
+      pattern: "^v?((\d+)\.(\d+)\.(\d+))(?:-([\dA-Za-z\-]+(?:\.[\dA-Za-z\-]+)*))?(?:\+([\dA-Za-z\-]+(?:\.[\dA-Za-z\-]+)*))?$"
     concepts:
       context: "TODO"
       description: "Concepts taught by this resource."
