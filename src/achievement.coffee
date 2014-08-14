@@ -1,6 +1,6 @@
 module.exports =
   id: "Achievement"
-  prefixes: 
+  prefixes:
     "": "http://schema.org/"
   context: "TODO"
   description: "A recognition of achievement"
@@ -10,7 +10,7 @@ module.exports =
       context: "name"
       description: "The name of the achievement."
       type: "string"
-    description: 
+    description:
       context: "description"
       description: "A short description of the challenge."
       type: "string"
