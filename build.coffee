@@ -1,7 +1,6 @@
 fs = require 'fs'
 path = require 'path'
 async = require 'async'
-env = require('jjv')()
 
 schemaJsonldContext = require 'schema-jsonld-context'
 schemaDeRef = require 'schema-deref'
