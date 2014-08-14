@@ -23,6 +23,7 @@ module.exports =
       description: "The semantic version of the learning resource."
       type: "string"
       pattern: "^v?((\d+)\.(\d+)\.(\d+))(?:-([\dA-Za-z\-]+(?:\.[\dA-Za-z\-]+)*))?(?:\+([\dA-Za-z\-]+(?:\.[\dA-Za-z\-]+)*))?$"
+###
     concepts:
       context: "TODO"
       description: "Concepts taught by this resource."
@@ -30,3 +31,4 @@ module.exports =
       items:
         reverse: "resources"
         $ref: "Concept"
+###
