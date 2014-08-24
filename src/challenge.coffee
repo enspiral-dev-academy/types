@@ -22,7 +22,7 @@ module.exports =
       context: "TODO"
       description: "The semantic version of the challenge."
       type: "string"
-      pattern: /TODO/
+      pattern: "^v?((\d+)\.(\d+)\.(\d+))(?:-([\dA-Za-z\-]+(?:\.[\dA-Za-z\-]+)*))?(?:\+([\dA-Za-z\-]+(?:\.[\dA-Za-z\-]+)*))?$"
     languages:
       context: "TODO"
       description: "The languages this challenge is available in"

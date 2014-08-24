@@ -2,5 +2,12 @@
   "@vocab": "http://schema.org/",
   "Achievement": "TODO",
   "badge": "image",
-  "prerequisites": "TODO"
+  "prerequisites": "TODO",
+  "Resource": "TODO",
+  "version": "TODO",
+  "Challenge": "TODO",
+  "languages": "TODO",
+  "competencies": "TODO",
+  "Competency": "TODO",
+  "challenges": "TODO"
 }
